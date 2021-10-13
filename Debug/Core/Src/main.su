@@ -1,0 +1,12 @@
+core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:137:5:_write	32	static
+main.c:153:6:save_mission_data	112	static
+main.c:222:6:check_reset	64	static
+main.c:238:6:execute_reset	24	static
+main.c:278:5:main	72	static
+main.c:346:6:SystemClock_Config	72	static
+main.c:384:13:MX_TIM2_Init	32	static
+main.c:429:13:MX_USART1_UART_Init	8	static
+main.c:462:13:MX_GPIO_Init	32	static
+main.c:483:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:504:6:Error_Handler	4	static,ignoring_inline_asm
